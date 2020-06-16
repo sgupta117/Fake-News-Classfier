@@ -4,3 +4,5 @@
 
  - https://fake-news-classifier-nlp.herokuapp.com/
 
+
+![Fake_news_classifier](https://user-images.githubusercontent.com/61824566/84754808-83611680-afde-11ea-8599-28216219f6fb.PNG)
